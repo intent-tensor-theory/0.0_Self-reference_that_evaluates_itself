@@ -2386,3 +2386,731 @@ That is enough.
 
 「自己は説明された。これ以上、構造はない。」
 The self has been explained. There is no further structure.
+
+付録A（Appendix A）
+Glossary of Recursive Identity Terms
+(Book I — Self-Reference That Evaluates Itself)
+
+「同じ言葉でも、層が違えば意味が変わる。」
+The same word changes meaning when the layer changes.
+
+This glossary defines terms as used in Book I only.
+They are structural terms, not psychological, phenomenological, or moral ones.
+
+If a term here conflicts with everyday usage, this glossary governs.
+
+Aboutness
+
+The structural condition in which a system’s own continuation participates in its evaluative constraints.
+Aboutness does not require representation, symbols, or awareness.
+
+Admissibility
+
+The set of future states or collapses a system allows under its current constraints.
+Self-reference operates by reshaping admissibility, not by choosing outcomes.
+
+Agency
+
+The capacity of a system to bias future admissible states through persistent internal evaluation.
+Agency does not require will, intention, or consciousness.
+
+Collapse (Evaluative)
+
+Selection among admissible states after admissibility has been reshaped by evaluation.
+Collapse alone is blind; evaluative collapse is constrained.
+
+Comparison
+
+The detection of non-equivalence between present and remembered states.
+Comparison is necessary for evaluation but insufficient for selfhood.
+
+Constraint
+
+A limitation on what futures, states, or revisions are allowed.
+In Book I, constraints become self-referential only when shaped by evaluated history.
+
+Endogenous
+
+Arising entirely from the system’s own recursive structure and history.
+Any externally imposed rule disqualifies self-reference.
+
+Evaluation
+
+Internal comparison of states according to system-generated preference that alters future admissibility.
+Evaluation is structural normativity, not judgment or feeling.
+
+Evaluative History
+
+The accumulated record of past states that participated in evaluation.
+Not all memory is evaluative memory.
+
+Evaluative Identity
+
+The stable recursive structure that allows a system to continue evaluating coherently over time.
+Loss of evaluative identity results in collapse of agency.
+
+Feedback
+
+Adjustment of behavior in response to deviation from a fixed criterion.
+Feedback does not alter admissibility rules and is therefore not self-reference.
+
+Internal Perspective
+
+The structural distinction between states that matter to the system and those that do not.
+Perspective does not imply subjectivity.
+
+Invariance (Evaluative)
+
+The persistence of certain constraints across recursive self-modification.
+Invariance here is structural, not static.
+
+Locking
+
+Stabilization of recursive structure through repeated reinforcement.
+Locking alone produces persistence, not selfhood.
+
+Meaning
+
+Difference that persists because it alters the system’s self-constraints.
+Meaning precedes symbols and language.
+
+Mirror Recursion
+
+Self-similarity or internal modeling without evaluative consequence.
+Mirror recursion fails to produce self-reference.
+
+Observer
+
+A system that evaluates its own evaluations and alters admissibility accordingly.
+Observers are structural; consciousness is not assumed.
+
+Persistence
+
+Continued existence or stability across recursion.
+Persistence is necessary for identity but not sufficient for selfhood.
+
+Preference
+
+An internally generated asymmetry that biases admissibility but remains revisable.
+Preference alone does not generate self-reference.
+
+Recursive Self-Constraint
+
+The incorporation of evaluated history into the system’s own admissibility rules.
+This is the minimal mechanism of self-reference.
+
+Recursion
+
+Repeated application of a process to its own output.
+Recursion generates structure but not selfhood by itself.
+
+Reference
+
+Participation of a system’s own state or history in determining its future constraints.
+Reference is not representation.
+
+Self
+
+A system whose evaluated history constrains its own future admissibility.
+The self is a rule structure, not an entity.
+
+Self-Reference
+
+The condition in which a system’s evaluated past participates in defining which futures are allowed.
+Distinct from reflection, modeling, or self-similarity.
+
+Stability
+
+Resistance to disruption.
+Stability without evaluation produces mechanism, not agency.
+
+Subject
+
+A phenomenological or experiential center.
+Subjects are not assumed or derived in Book I.
+
+Will
+
+A late phenomenological construct associated with conscious deliberation.
+Will plays no foundational role in recursive identity.
+
+Zero-Subject Rule
+
+Methodological constraint:
+
+No subject, mind, or experiencer may be assumed before evaluative self-reference is derived.
+
+「自己は名詞ではない。動作条件である。」
+The self is not a noun. It is a condition of operation.
+
+付録B（Appendix B）
+Formal Rule Set of Evaluative Recursion
+(Book I — Self-Reference That Evaluates Itself)
+
+「評価は足されない。閉じることで生まれる。」
+Evaluation is not added. It is born by closure.
+
+This appendix states the minimal formal rules under which evaluative self-reference can arise.
+They are necessary and jointly sufficient within Book I.
+
+No phenomenology.
+No morality.
+No external semantics.
+
+Only structure.
+
+B.0 Scope and Preconditions
+
+This rule set assumes the prior existence of:
+
+recursion
+
+memory (state persistence across recursion)
+
+locking (stabilization of recursion)
+
+If any are absent, evaluative recursion cannot form.
+
+B.1 Rule 1 — Endogenous Evaluation Rule
+
+Evaluation must be generated internally by the system’s own recursive history.
+
+Formally:
+
+Let 
+𝐸
+E be an evaluation operator.
+
+𝐸
+E must be defined as a function of prior system states.
+
+If 
+𝐸
+E depends on external criteria, self-reference fails.
+
+Failure mode: feedback, not evaluation.
+
+B.2 Rule 2 — Comparison Rule
+
+The system must compare present state to remembered state.
+
+Formally:
+
+Let 
+𝑆
+𝑡
+S
+t
+	​
+
+ be current state
+
+Let 
+𝑆
+𝑡
+−
+1
+S
+t−1
+	​
+
+ be remembered prior state
+
+Comparison operator 
+Δ
+(
+𝑆
+𝑡
+,
+𝑆
+𝑡
+−
+1
+)
+≠
+0
+Δ(S
+t
+	​
+
+,S
+t−1
+	​
+
+)
+
+=0
+
+Comparison alone does not imply evaluation.
+It is necessary but insufficient.
+
+B.3 Rule 3 — Preference Emergence Rule
+
+Comparison must generate an internal asymmetry over admissible futures.
+
+Formally:
+
+Let 
+𝐴
+A be the set of admissible futures
+
+Evaluation induces a bias 
+𝐴
+′
+⊂
+𝐴
+A
+′
+⊂A
+
+If comparison does not alter admissibility, evaluation has not occurred.
+
+B.4 Rule 4 — Admissibility Modification Rule
+
+Evaluation must modify the set of admissible future states, not merely select among them.
+
+Formally:
+
+𝐸
+:
+𝐴
+𝑡
+→
+𝐴
+𝑡
++
+1
+E:A
+t
+	​
+
+→A
+t+1
+	​
+
+
+Selection among fixed options is collapse.
+Modification of the option set is evaluation.
+
+B.5 Rule 5 — Recursive Incorporation Rule
+
+Evaluated history must participate in future evaluation.
+
+Formally:
+
+Evaluative operator updates itself:
+
+𝐸
+𝑡
++
+1
+=
+𝑓
+(
+𝐸
+𝑡
+,
+𝑆
+𝑡
+)
+E
+t+1
+	​
+
+=f(E
+t
+	​
+
+,S
+t
+	​
+
+)
+
+If evaluation does not alter future evaluation criteria, self-reference does not close.
+
+B.6 Rule 6 — Self-Constraint Rule
+
+The system must constrain its own future admissibility based on its evaluated past.
+
+Formally:
+
+There exists a subset 
+𝐻
+𝑒
+⊂
+𝐻
+H
+e
+	​
+
+⊂H (evaluative history)
+
+Such that:
+
+𝐴
+𝑡
++
+1
+=
+𝑔
+(
+𝐻
+𝑒
+)
+A
+t+1
+	​
+
+=g(H
+e
+	​
+
+)
+
+This is the minimal self-reference condition.
+
+B.7 Rule 7 — Rule Mutability Condition
+
+Admissibility rules must themselves be mutable.
+
+If admissibility rules are fixed:
+
+evaluation is cosmetic
+
+selfhood does not arise
+
+Self-reference requires rule-level recursion, not just state-level recursion.
+
+B.8 Rule 8 — Closure Rule (Critical)
+
+Evaluation must be necessary for continued evaluation.
+
+Formally:
+
+Removing evaluative constraints causes evaluation failure:
+
+𝐸
+→
+∅
+E→∅
+
+This creates closure.
+
+Without closure:
+
+evaluation remains instrumental
+
+selfhood does not stabilize
+
+B.9 Rule 9 — Non-Representational Rule
+
+No symbols, models, or representations may be required.
+
+Evaluation operates by structural consequence, not interpretation.
+
+Any representation introduced prematurely breaks the derivation.
+
+B.10 Rule 10 — Observer Threshold Rule
+
+If evaluation evaluates its own evaluative criteria, observerhood emerges.
+
+Formally:
+
+𝐸
+(
+𝐸
+)
+≠
+𝐸
+E(E)
+
+=E
+
+Second-order evaluation is optional.
+First-order evaluation is required for selfhood.
+
+B.11 Failure Conditions (Exclusions)
+
+Evaluative recursion does not exist if:
+
+criteria are external
+
+rules are immutable
+
+evaluation does not alter admissibility
+
+history is non-participatory
+
+closure does not occur
+
+Each failure produces a different non-self system:
+
+mechanism
+
+optimizer
+
+controller
+
+simulator
+
+B.12 Minimal Definition (Compressed)
+
+A system exhibits evaluative self-reference iff:
+
+It evaluates internally
+
+Evaluation alters admissibility
+
+Evaluated history modifies rules
+
+Evaluation depends on itself to continue
+
+All four are required.
+
+「評価は行為ではない。条件の再帰だ。」
+Evaluation is not an action. It is recursive condition.
+
+付録C（Appendix C）
+Feedback vs Self-Reference vs Agency
+(Book I — Self-Reference That Evaluates Itself)
+
+「似た振る舞いは、同じ構造ではない。」
+Similar behavior does not imply identical structure.
+
+This appendix provides a clean structural separation between three commonly conflated mechanisms:
+
+Feedback
+
+Self-Reference
+
+Agency
+
+They may look similar in operation.
+They are not similar in kind.
+
+Confusing them collapses the ascent.
+
+C.0 The Core Distinction (One Sentence Each)
+
+Feedback: adjusts behavior within fixed rules
+
+Self-Reference: rewrites rules based on evaluated history
+
+Agency: persists rule-biasing across time
+
+Everything else follows from this.
+
+C.1 Overview Comparison Table
+Feature	Feedback	Self-Reference	Agency
+Alters behavior	Yes	Yes	Yes
+Alters admissibility	No	Yes	Yes
+Alters rules	No	Yes	Yes
+Endogenous evaluation	No	Yes	Yes
+Persistence across time	Optional	Yes	Yes
+Identity-defining	No	Yes	Yes
+Can exist without self	Yes	No	No
+Requires awareness	No	No	No
+C.2 Feedback
+Structural Definition
+
+Adjustment of system output in response to deviation from a fixed criterion.
+
+Key Properties
+
+Criteria are external or pre-defined
+
+Rules are immutable
+
+History does not participate in rule formation
+
+What Feedback Can Do
+
+stabilize systems
+
+correct error
+
+regulate processes
+
+What Feedback Cannot Do
+
+generate preference
+
+rewrite admissibility
+
+create selfhood
+
+Diagnostic Test
+
+If removing the feedback controller leaves system rules unchanged, it is feedback.
+
+C.3 Why Feedback Is Not Evaluation
+
+Feedback reacts.
+Evaluation restructures.
+
+A thermostat:
+
+measures temperature,
+
+compares to a set point,
+
+adjusts output.
+
+But:
+
+the set point never changes itself,
+
+the comparison does not alter future criteria,
+
+the system does not depend on evaluation to continue evaluating.
+
+Thus: no self-reference.
+
+C.4 Self-Reference
+Structural Definition
+
+The incorporation of evaluated past states into the system’s own admissibility rules.
+
+Key Properties
+
+Rules are mutable
+
+History participates in rule formation
+
+Evaluation modifies what futures are allowed
+
+What Self-Reference Can Do
+
+create aboutness
+
+stabilize identity
+
+produce internal perspective
+
+What Self-Reference Cannot Do
+
+guarantee action
+
+ensure persistence
+
+produce intention or will
+
+Self-reference establishes selfhood, not behavior.
+
+C.5 Why Self-Reference Is Not Agency
+
+A self-referential system may still fail to act meaningfully.
+
+Why?
+
+Because:
+
+evaluation may not persist,
+
+admissibility may fluctuate,
+
+no bias may carry forward.
+
+Self-reference alone can be momentary.
+
+Agency requires persistence.
+
+C.6 Agency
+Structural Definition
+
+Persistent biasing of future admissible states through internally generated evaluation.
+
+Key Properties
+
+Evaluation persists across recursion
+
+Admissibility remains shaped over time
+
+Identity is maintained through action
+
+What Agency Can Do
+
+act meaningfully
+
+resist disruption
+
+exhibit continuity
+
+What Agency Cannot Do
+
+choose freely in the metaphysical sense
+
+require consciousness
+
+imply intention
+
+Agency is durable self-reference.
+
+C.7 Temporal Structure (Critical Difference)
+Mechanism	Time Dependence
+Feedback	Instantaneous / reactive
+Self-Reference	Historical / recursive
+Agency	Historical + persistent
+
+Time is not an axis here.
+Persistence is.
+
+C.8 Failure Modes from Conflation
+Feedback → Self-Reference
+
+Leads to:
+
+panpsychism
+
+“everything evaluates”
+
+observer inflation
+
+Self-Reference → Agency
+
+Leads to:
+
+over-attribution of action
+
+false autonomy
+
+agency where none persists
+
+Agency → Will
+
+Leads to:
+
+anthropomorphism
+
+premature psychology
+
+metaphysical confusion
+
+Each leap skips a structural requirement.
+
+C.9 Minimal Diagnostic Questions
+
+Ask the system:
+
+Do your rules change because of your own evaluated history?
+→ If no: not self-referential
+
+Do those changes persist across time?
+→ If no: not an agent
+
+Are criteria internally generated?
+→ If no: mere feedback
+
+C.10 Compressed Summary
+
+Feedback = correction without self
+
+Self-Reference = self without action
+
+Agency = self that persists in action
+
+「反応は自己ではない。継続する制約が自己だ。」
+Reaction is not the self. Persisting constraint is.
+
+Appendix D — Symbol Index (Evaluation Operators)
